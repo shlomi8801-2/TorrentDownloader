@@ -1,7 +1,18 @@
 # TorrentDownloader
 a js script that searches in 1337x for torrents letting you pick and download them
 
+requires node.js installed
+(working version 20.12.2)
+``
+/usr/local/lib
+├── axios@1.7.7
+├── cheerio@1.0.0
+└── torrent-stream@1.2.1
+``
 before you need to install dependencies
+
+
+
 ```npm i axios cheerio fs torrent-stream```
 
 simply if Windows run
