@@ -13,7 +13,7 @@ before you need to install dependencies
 
 
 
-```npm i axios cheerio fs torrent-stream```
+```npm i axios cheerio fs torrent-stream -g```
 
 simply if Windows run
 ``` node ./download.js <the torrent you want>```
