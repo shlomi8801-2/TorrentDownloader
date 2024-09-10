@@ -20,5 +20,7 @@ simply if Windows run
 
 in linux i suggest adding it to the system commands running
 ```sudo cp ./download /usr/local/bin/torrentDownloader```
+```sudo chmod +x /user/local/bin/torrentDownloader```
+``` echo 'export NODE_PATH=$(npm root -g)' >> ~/.bashrc```
 then run it like that
 ```torrentDownloader <the torrent you want>```
