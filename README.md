@@ -1,7 +1,7 @@
 # TorrentDownloader
 a js script that searches in 1337x for torrents letting you pick and download them
 
-requires node.js installed
+requires node.js installed not the nvm version
 (working version 20.12.2)
 ``
 /usr/local/lib
